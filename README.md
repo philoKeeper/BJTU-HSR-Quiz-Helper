@@ -21,7 +21,7 @@
 
 ### 方式一：绿色版（推荐给不装 Python 的同学）
 
-1. 到 Releases 下载 `高铁答题助手.zip`
+1. 到 Releases 下载 `hsr-autoexam-v1.0.0.zip`
 2. 解压到任意目录（中文路径也可以）
 3. 双击 `启动.bat`
 4. 首次运行输入学号和密码（只保存在本机 `config.json`）
